@@ -1,5 +1,6 @@
 {
   "name": "sci3ma/sf4-api-versioning",
+  "description": "Example of API versioning on Symfony Framework v4",
   "type": "project",
   "license": "MIT",
   "keywords": [
@@ -7,7 +8,7 @@
     "symfony",
     "rest",
     "api",
-    "versioning:"
+    "versioning"
   ],
   "authors": [
     {
